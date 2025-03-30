@@ -242,7 +242,7 @@ public static class GameDataManager
     // Save and Load Player Data -----------------------------------------------------------------
     static void SavePlayerData()
     {
-        BinarySerializer.Save(playerData, "CrossRoad-testingver4-data.txt");
+        BinarySerializer.Save(playerData, "CrossRoad-testingver1-data.txt");
         Debug.Log("<color=magenta>[PlayerData] Saved.</color>");
     }
 

@@ -3429,14 +3429,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3237059507541587042, guid: 45e75c85c84db934681e342d7c87d91d, type: 3}
-      propertyPath: m_Resource
-      value: 
-      objectReference: {fileID: 8300000, guid: a9b1d69eb292e0f488dd20e0b3976359, type: 3}
-    - target: {fileID: 3237059507541587042, guid: 45e75c85c84db934681e342d7c87d91d, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: a9b1d69eb292e0f488dd20e0b3976359, type: 3}
     - target: {fileID: 7316142790527111913, guid: 45e75c85c84db934681e342d7c87d91d, type: 3}
       propertyPath: m_Name
       value: Background
@@ -3475,7 +3467,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208

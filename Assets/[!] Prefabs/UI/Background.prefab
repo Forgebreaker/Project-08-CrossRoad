@@ -300,7 +300,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1634540079135001464}
-  - component: {fileID: 7722456601155597610}
   m_Layer: 6
   m_Name: Road Land (3)
   m_TagString: Ground
@@ -334,18 +333,6 @@ Transform:
   - {fileID: 6235561274833684566}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7722456601155597610
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 129241418889411489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &196533389553510730
 GameObject:
   m_ObjectHideFlags: 0
@@ -7553,7 +7540,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9085673513013256357}
-  - component: {fileID: 3034812249101047478}
   m_Layer: 6
   m_Name: Road Land (4)
   m_TagString: Ground
@@ -7587,18 +7573,6 @@ Transform:
   - {fileID: 8808652847096277622}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3034812249101047478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2590467015883536982}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2729061897515307522
 GameObject:
   m_ObjectHideFlags: 0
@@ -7694,7 +7668,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1290702668685854251}
-  - component: {fileID: 6595961709939682363}
   m_Layer: 6
   m_Name: Road Land (5)
   m_TagString: Ground
@@ -7728,18 +7701,6 @@ Transform:
   - {fileID: 5059782852679466959}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6595961709939682363
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2786629849488964652}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2850008333701837438
 GameObject:
   m_ObjectHideFlags: 0
@@ -19937,7 +19898,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8576507318589228413}
-  - component: {fileID: 1288660560557177733}
   m_Layer: 6
   m_Name: Safe Land (1)
   m_TagString: Ground
@@ -19970,18 +19930,6 @@ Transform:
   - {fileID: 6307548890571881121}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1288660560557177733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7338576335196830521}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &7363513848434011934
 GameObject:
   m_ObjectHideFlags: 0
@@ -22458,7 +22406,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6169576254880692150}
-  - component: {fileID: 2321277584723787415}
   m_Layer: 6
   m_Name: Road Land (2)
   m_TagString: Ground
@@ -22493,18 +22440,6 @@ Transform:
   - {fileID: 7199367479938579635}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2321277584723787415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8256651295043010285}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &8294396669127126017
 GameObject:
   m_ObjectHideFlags: 0
@@ -22902,7 +22837,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4137413004396892018}
-  - component: {fileID: 5525273168945047270}
   m_Layer: 6
   m_Name: Safe Land (2)
   m_TagString: Ground
@@ -22935,18 +22869,6 @@ Transform:
   - {fileID: 1977036710792261886}
   m_Father: {fileID: 2810877198694399257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5525273168945047270
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8433892278923779785}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d52e697c51b53b4fb1e0e633b161e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &8524872539604476497
 GameObject:
   m_ObjectHideFlags: 0
@@ -23499,7 +23421,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 2
+  m_Intensity: 1.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -23542,7 +23464,7 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 5000
+  m_ColorTemperature: 6000
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0

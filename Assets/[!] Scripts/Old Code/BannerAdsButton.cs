@@ -11,7 +11,7 @@ public class BannerAdsButton : MonoBehaviour
     {
         if (CodelessIAPStoreListener.Instance != null && CodelessIAPStoreListener.Instance.StoreController != null)
         {
-            var product = CodelessIAPStoreListener.Instance.StoreController.products.WithID("com.OutbreakCompany.Daggerous.removeads");
+            var product = CodelessIAPStoreListener.Instance.StoreController.products.WithID("com.OutbreakCompany.CrossRoad.removeads");
 
             if (product != null)
             {
@@ -28,7 +28,7 @@ public class BannerAdsButton : MonoBehaviour
 
     public void OnPurchaseComplete(Product product)
     {
-        if (product.definition.id == "com.OutbreakCompany.Daggerous.removeads")
+        if (product.definition.id == "com.OutbreakCompany.CrossRoad.removeads")
         {
             StartCoroutine(ProcessRemoveAdsCoroutine());
         }
